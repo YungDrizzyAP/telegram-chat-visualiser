@@ -13,7 +13,7 @@ Currently supports English and Russian.
 
 ```bash
   cd telegram-chat-visualiser
-  pip install -r requirements.txt
+  pip3 install -r requirements.txt
 ```
     
 
@@ -21,7 +21,7 @@ Currently supports English and Russian.
 ## Usage/Examples
 To use the script, run it from the command line, passing the input JSON file as a parameter. (Make sure the .json file is in the same directory.)
 ```python
-python script.py result.json
+python3 script.py result.json
 ```
 By default, the script will generate a WordCloud with the 150 most common words, with a width of 1280 pixels and a height of 720 pixels. The WordCloud will be saved as a PNG file named 'my_wordcloud.png' in the same directory as the input file.
 
@@ -37,6 +37,6 @@ You can customize the output by using the following optional parameters:
 
 ## Example
 ```python
-python script.py result.json -n 200 -w 1920 -h 1080 -o my_chat_wordcloud.png
+python3 script.py result.json -n 200 -w 1920 -h 1080 -o my_chat_wordcloud.png
 
 ```
