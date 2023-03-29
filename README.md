@@ -3,6 +3,7 @@
 
 
 A simple tool to visualise the most used words in a Telegram conversation using a word cloud.
+Currently supports English and Russian.
 
 ## Chat export:
 ![](https://github.com/YungDrizzyAP/telegram-chat-visualiser/blob/main/demo.gif)
