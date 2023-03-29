@@ -5,7 +5,7 @@
 A simple tool to visualise the most used words in a Telegram conversation using a word cloud.
 
 ## Chat export:
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQ4YTVmNDVhZGRiYjUyYzg4M2JjMjhlOGJiMTA2NGQ3ZDQ1MDNmNiZjdD1n/i1xuotA9kCiWvatubE/giphy.gif
+![](https://github.com/YungDrizzyAP/telegram-chat-visualiser/blob/main/demo.gif)
 ## Installation
 
 
