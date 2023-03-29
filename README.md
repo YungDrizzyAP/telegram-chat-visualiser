@@ -19,9 +19,8 @@ Currently supports English and Russian.
 
 
 ## Usage/Examples
-To use the script, run it from the command line, passing the input JSON file as a parameter. For example:
+To use the script, run it from the command line, passing the input JSON file as a parameter. (Make sure the .json file is in the same directory.)
 ```python
-Make sure the .json file is in the same directory.
 python script.py result.json
 ```
 By default, the script will generate a WordCloud with the 150 most common words, with a width of 1280 pixels and a height of 720 pixels. The WordCloud will be saved as a PNG file named 'my_wordcloud.png' in the same directory as the input file.
