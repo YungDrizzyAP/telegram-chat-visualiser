@@ -40,3 +40,10 @@ You can customize the output by using the following optional parameters:
 python3 script.py result.json -n 200 -w 1920 -h 1080 -o my_chat_wordcloud.png
 
 ```
+
+## Contributions are welcome.
+
+YDAP 2022.
+
+
+
